@@ -1,7 +1,8 @@
 arons7's gentoo overlay
 =========================
 
-a simepl Gentoo Overlay.
+a simple Gentoo Overlay.
+
 
 ----------
 
