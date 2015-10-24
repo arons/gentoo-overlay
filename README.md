@@ -1,7 +1,7 @@
 arons7's gentoo overlay
 =========================
 
-Gentoo Overlay for things I, Sandy McArthur, have taken the time to package.
+a simepl Gentoo Overlay.
 
 ----------
 
