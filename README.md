@@ -1,4 +1,4 @@
-sandymac's gentoo overlay
+arons7's gentoo overlay
 =========================
 
 Gentoo Overlay for things I, Sandy McArthur, have taken the time to package.
@@ -9,13 +9,13 @@ To add this to your list of overlays, as root, run the following
 
 ```
 # Download and save this repo xml to /etc/layman/overlays/
-curl -o /etc/layman/overlays/sandymac.xml https://raw.githubusercontent.com/sandymac/gentoo-overlay/master/sandymac.xml
+curl -o /etc/layman/overlays/arons7.xml https://raw.githubusercontent.com/arons7/gentoo-overlay/master/arons7.xml
 
 # Add my overlay to layman
-layman -a sandymac
+layman -a arons7
 
-# Sync sandymac layman overlays
-layman -s sandymac
+# Sync arons7 layman overlays
+layman -s arons7
 
 # or sync all layman overlays
 layman -S
@@ -28,4 +28,4 @@ If you don't have layman setup on your machine please read this: https://www.gen
 This overlay provides ebuilds for the following packages:
 
 * [Plex Media Server](https://plex.tv/downloads): media-tv/plex-media-server - Public released are "stable" (arch) and PlexPass releases are "unstable" (~arch)
-* [BitTorrent Sync](http://www.bittorrent.com/sync): net-p2p/bittorrent-sync
+
