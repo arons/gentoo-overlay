@@ -10,7 +10,7 @@ To add this to your list of overlays, as root, run the following
 
 ```
 # Download and save this repo xml to /etc/layman/overlays/
-curl -o /etc/layman/overlays/arons7.xml https://raw.githubusercontent.com/arons7/gentoo-overlay/master/arons7.xml
+curl -o /etc/layman/overlays/arons7.xml https://raw.githubusercontent.com/arons/gentoo-overlay/master/arons7.xml
 
 # Add my overlay to layman
 layman -a arons7
