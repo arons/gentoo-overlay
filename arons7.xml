@@ -3,7 +3,7 @@
  <repo priority="50" quality="experimental" status="unofficial">
   <name>arons7</name>
   <description>Packages has created at https://github.com/arons/gentoo-overlay</description>
-  <homepage>https://github.com/arons/gentoo-overlayhomepage>
+  <homepage>https://github.com/arons/gentoo-overlay<homepage>
   <source type="git">git://github.com:arons/gentoo-overlay.git</source>
  </repo>
 </repositories>
